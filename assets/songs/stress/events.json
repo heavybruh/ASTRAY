@@ -1,0 +1,91 @@
+{
+	"song": {
+		"events": [
+			[
+				21573.0337078652,
+				[
+					[
+						"Opponent Damage",
+						"0.01",
+						"0.1"
+					]
+				]
+			],
+			[
+				32359.5505617978,
+				[
+					[
+						"Opponent Damage",
+						"0.02",
+						"0.1"
+					]
+				]
+			],
+			[
+				53932.5842696629,
+				[
+					[
+						"Opponent Damage",
+						"0.01",
+						"0.1"
+					]
+				]
+			],
+			[
+				62022.4719101124,
+				[
+					[
+						"Play Animation",
+						"singDOWN-alt",
+						"dad"
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.08"
+					],
+					[
+						"Camera Follow Pos",
+						"320",
+						"504"
+					]
+				]
+			],
+			[
+				64719.1011235955,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.9"
+					]
+				]
+			],
+			[
+				64722.6123595506,
+				[
+					[
+						"Opponent Damage",
+						"0.02",
+						"0.1"
+					]
+				]
+			],
+			[
+				86292.1348314608,
+				[
+					[
+						"Opponent Damage",
+						"0.015",
+						"0.1"
+					]
+				]
+			]
+		]
+	}
+}

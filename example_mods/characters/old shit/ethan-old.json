@@ -1,0 +1,163 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				1
+			],
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "left anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				-95
+			],
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "down anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				19
+			],
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "up anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				47
+			],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "right anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle anim"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				0
+			],
+			"fps": 20,
+			"anim": "win",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "win pose"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ethan/ethansprytes",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		98,
+		250,
+		249
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.85
+}

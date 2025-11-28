@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				1
+			],
+			"fps": 20,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				299,
+				332
+			],
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				309,
+				329
+			],
+			"fps": 20,
+			"anim": "singUP",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-31
+			],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				0
+			],
+			"fps": 20,
+			"anim": "idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				342
+			],
+			"fps": 20,
+			"anim": "win",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "win"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bluestrike/Bluestrike_sprites",
+	"position": [
+		100,
+		270
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		17,
+		25,
+		46
+	],
+	"camera_position": [
+		300,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
